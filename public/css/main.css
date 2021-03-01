@@ -1,0 +1,10 @@
+.Base{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Title{
+    font-family: Raleway;
+    font-weight: bold;
+    font-size: 48px;
+}
